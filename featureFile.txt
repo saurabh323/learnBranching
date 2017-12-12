@@ -1,4 +1,5 @@
 New feature added.
-
-...
+func(){
+echo "New feature function added"
+}
 new feature ends.
